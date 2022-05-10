@@ -1,0 +1,1000 @@
+ 1044  emacs service-worker.js 
+ 1045  cd static/
+ 1046  ls
+ 1047  cd js/
+ 1048  ls
+ 1049  cd ,,
+ 1050  cd ..
+ 1051  ls
+ 1052  cd css/
+ 1053  ls
+ 1054  cd ,,
+ 1055  cd ..
+ 1056  ls
+ 1057  cd media/
+ 1058  ls
+ 1059  emacs Neur.b4710ee9.jfif 
+ 1060  cd ../../
+ 1061  ls
+ 1062  cd 
+ 1063  ls
+ 1064  rm -rf  *.txt
+ 1065  ls
+ 1066  rm -rf *.sh
+ 1067  ls
+ 1068  rm -rf write txt text.tbz tar  struct structure structure.s
+ 1069  ls
+ 1070  rm -rf touch 
+ 1071  ls
+ 1072  rm -rf new-fxml-settings.xml PATH stuct.o shell.tar.bz2 j.java Mkdir mkdir mkdirnumber number/ '#Makefile#' m ggg files files.zip float grep hello
+ 1073  ls
+ 1074  rm -rf st temp hello1 a.out Duplicate 
+ 1075  rm -rf ArrayLength2DExample.class controller DB cvf hello.*
+ 1076  ls
+ 1077  rm -rf ar 
+ 1078  ls
+ 1079  feh Firefox_wallpaper.png 
+ 1080  cat spring.log 
+ 1081  LS
+ 1082  ls
+ 1083  cd Downloads/
+ 1084  ls
+ 1085  cd 
+ 1086  ls
+ 1087  ./time 
+ 1088  clear
+ 1089  emacs time.java
+ 1090  javac  time.java
+ 1091  emacs time.java
+ 1092  javac  time.java
+ 1093  emacs time.java
+ 1094  javac time.java
+ 1095  ls
+ 1096  java time.java
+ 1097  java time.class
+ 1098  ls
+ 1099  java Time.class
+ 1100  java Time
+ 1101  clear
+ 1102  java TIme
+ 1103  java Time
+ 1104  clear
+ 1105  emacs time.java
+ 1106  javac time.java 
+ 1107  emacs time.java
+ 1108  javac time.java 
+ 1109  emacs time.java
+ 1110  javac time.java 
+ 1111  java Time 
+ 1112  clear
+ 1113  ls
+ 1114  cd Downloads/
+ 1115  ls
+ 1116  cd ..
+ 1117  ls
+ 1118  rm -rf Time.class time.java time.java
+ 1119  ls
+ 1120  cd dhinesh/
+ 1121  ls
+ 1122  cd ..
+ 1123  ls
+ 1124  cd NirmalKnock.github.io/
+ 1125  l
+ 1126  cd ..
+ 1127  ls
+ 1128  cd WebSite/
+ 1129  ls
+ 1130  cd home-master/
+ 1131  ls
+ 1132  cd src/
+ 1133  ls
+ 1134  cd 
+ 1135  cd WebSite/
+ 1136  cd home-master/
+ 1137  cd src/
+ 1138  ls
+ 1139  cd ..
+ 1140  ls
+ 1141  emacs package.json 
+ 1142  gedit package.json 
+ 1143  ls
+ 1144  cd src/
+ 1145  ls
+ 1146  cd components/
+ 1147  ls
+ 1148  cd home/
+ 1149  ls
+ 1150  cd ../../
+ 1151  ls
+ 1152  cd ..
+ 1153  l
+ 1154  cd public/
+ 1155  ls
+ 1156  gedit index.html 
+ 1157  ls
+ 1158  feh logo192.png 
+ 1159  ls
+ 1160  feh social-image.png 
+ 1161  cd ..
+ 1162  ls
+ 1163  emacs package
+ 1164  emacs package.json 
+ 1165  gedit package.json 
+ 1166  ls
+ 1167  cd public/
+ 1168  ;s
+ 1169  ll
+ 1170  emacs manifest.json 
+ 1171  gedit favicon.ico 
+ 1172  cd ..
+ 1173  ls
+ 1174  cd src/
+ 1175  ls
+ 1176  cd hooks/
+ 1177  ls
+ 1178  cd ..
+ 1179  ls
+ 1180  emacs index.js 
+ 1181  feh  logo.svg 
+ 1182  ls
+ 1183  cd assets/
+ 1184  ls
+ 1185  cd img/
+ 1186  ls
+ 1187  feh boeing.png 
+ 1188  ls
+ 1189  cd ..
+ 1190  ls
+ 1191  cd ..
+ 1192  ls
+ 1193  cd ..
+ 1194  ls
+ 1195  cd READMEdocs/
+ 1196  ls
+ 1197  sudo apt update
+ 1198  ls
+ 1199  sudo apt install gif-for-cli
+ 1200  sudo apt install gif-for-CLI
+ 1201  sudo apt install gif-for-cli
+ 1202  sudo snap install --edge gif-for-cli
+ 1203  sudo apt install --edge gif-for-cli
+ 1204  sudo apt install gif-for-cli
+ 1205  $ sudo apt-get install snapd
+ 1206  cd 
+ 1207  zls
+ 1208  l
+ 1209  ls
+ 1210  cd WebSite/
+ 1211  ls
+ 1212  cs 
+ 1213  cd home-master/
+ 1214  ls
+ 1215  sudo apt install snapd
+ 1216  sudo snap install --edge gif-for-cli
+ 1217  sudo apt install --edge gif-for-cli
+ 1218  L
+ 1219  bkbfhbkwfbfbf
+ 1220  wfffpnofwfn
+ 1221  ls
+ 1222  cleat
+ 1223  clear
+ 1224  ls
+ 1225  clear
+ 1226  cd //
+ 1227  ls
+ 1228  cd lib
+ 1229  ls
+ 1230  cd git-core/
+ 1231  ls
+ 1232  cd  Downloads/
+ 1233  ls
+ 1234  cd ..
+ 1235  ls
+ 1236  cd Downloads/
+ 1237  ls
+ 1238  mv 1650949581241.JPG ~/WebSite/NirmalKnock.github.io-master/static/media/
+ 1239  ls
+ 1240  cd ..
+ 1241  ls
+ 1242  cd WebSite/
+ 1243  ls
+ 1244  cd NirmalKnock.github.io-master/
+ 1245  ks
+ 1246  ls
+ 1247  cd static/media/
+ 1248  kls
+ 1249  ls
+ 1250  mv 1650949581241.JPG guna.png
+ 1251  ls
+ 1252  cd ..
+ 1253  ls
+ 1254  cd ..
+ 1255  ls 
+ 1256  cd ..
+ 1257  ls
+ 1258  cd home-master/
+ 1259  ls
+ 1260  cd ..
+ 1261  ;s
+ 1262  ls
+ 1263  cd NirmalKnock.github.io-master/
+ 1264  ls
+ 1265  cd WebSite/
+ 1266  ls
+ 1267  cd home-master/
+ 1268  ls
+ 1269  cd READMEdocs/
+ 1270  ls
+ 1271  cd ..
+ 1272  ls
+ 1273  cd src/
+ 1274  ls
+ 1275  cd scss/
+ 1276  ls
+ 1277  cs ..
+ 1278  cd ..
+ 1279  ls
+ 1280  cd ..
+ 1281  zls
+ 1282  ls
+ 1283  cd public/
+ 1284  ls
+ 1285  cd...
+ 1286  cd ..
+ 1287  ls
+ 1288  cd ..
+ 1289  ls
+ 1290  cd NirmalKnock.github.io-master/
+ 1291  ls
+ 1292  cd static/
+ 1293  ls
+ 1294  npm install
+ 1295  npm run
+ 1296  ls
+ 1297  cd ..
+ 1298  ls
+ 1299  npm bulid
+ 1300  npm build
+ 1301  ls
+ 1302  npm install
+ 1303  npm run
+ 1304  ls
+ 1305  npm deploy
+ 1306  ls
+ 1307  firefox   https://nirm.github.io/home
+ 1308  firefox   https://nirmalknock.github.io/
+ 1309  ls
+ 1310  cd static/
+ 1311  ls
+ 1312  emacs package-lock.json 
+ 1313  s
+ 1314  ls
+ 1315  cd media/
+ 1316  ls
+ 1317  rm -rf Nirmal_kumar_DP.2d2dd016.png 
+ 1318  shutdown now
+ 1319  git --version 
+ 1320  mkdir guna
+ 1321  ls
+ 1322  rm -rf guna
+ 1323  ls
+ 1324  cd eclipse-workspace/
+ 1325  ls
+ 1326  ls z-l
+ 1327  ls -A
+ 1328  cd Spring-log-FrameWork.Student
+ 1329  ls
+ 1330  cd src/
+ 1331  ls
+ 1332  cd main/
+ 1333  ls
+ 1334  cd java/
+ 1335  ls
+ 1336  xs com/
+ 1337  ls
+ 1338  cd com/
+ 1339  ls
+ 1340  cd example/
+ 1341  ls
+ 1342  cd demo/
+ 1343  ls
+ 1344  cd Model/
+ 1345  ls
+ 1346  cat Student.java 
+ 1347  cd ..
+ 1348  ;
+ 1349  cd ../../../../../
+ 1350  ls
+ 1351  cd ../../.../../
+ 1352  ls
+ 1353  cd ../../../../
+ 1354  ls
+ 1355  cd user/
+ 1356  ls
+ 1357  eval "$(ssh-agent -s)"
+ 1358  ssh-add ~/.ssh/id_ed25519
+ 1359  cd /
+ 1360  ssh-add ~/.ssh/id_ed25519
+ 1361  locate key.pub
+ 1362  etc/ssh/ssh_host_ed25519_key.pub
+ 1363  cd 
+ 1364  cd home
+ 1365  cd 
+ 1366  pwd
+ 1367  ls
+ 1368  cd ./ssh
+ 1369  cat key.pub
+ 1370  history  
+ 1371  firefox git
+ 1372  cat ~/.ssh/id_ed25519.pub
+ 1373  ssh-keygen -t ed25519 -C "gunag77730@gmail.com"
+ 1374  hISTORY
+ 1375  history
+ 1376  git --help 
+ 1377  cd //lib/git-core/
+ 1378  cat key 
+ 1379  cd 
+ 1380  ;s
+ 1381  ls
+ 1382  cd git/
+ 1383  cd repository2
+ 1384  cat key.txt 
+ 1385  cd 
+ 1386  cd //lib/git-core/
+ 1387  ls
+ 1388  rm -rf key 
+ 1389  emacs PAT
+ 1390  gedit PAT
+ 1391  gedit PAT.txt
+ 1392  sudo gedit PAT.txt
+ 1393  ls
+ 1394  cat PAT.txt 
+ 1395  git git-shell
+ 1396  git shell
+ 1397  chmod +x git-shell 
+ 1398  git shell
+ 1399  shell.sh
+ 1400  ./shell.sh
+ 1401  git shell
+ 1402  ls
+ 1403  clear
+ 1404  cbwhbwbkbbwkdbbuwbobfuofbfbufbbf
+ 1405  jbfjkbBON
+ 1406  SBAJBJBBBCBUBF
+ 1407  NFNFNJNFWJIFJFWJFBI
+ 1408  ssh-keygen -t ed25519-sk -C "gunag77730@gmail.com"
+ 1409  ssh-keygen -t ecdsa-sk -C "gunag77730@gmail.com"
+ 1410  ssh-keygen -t ed25519 -C "gunag77730@gmail.com"
+ 1411  ssh-add ~/.ssh/id_ed25519
+ 1412  ls
+ 1413  ssh-add ~/.ssh/keys.pub
+ 1414  ssh-add ~/.ssh/keys
+ 1415  ssh-add /.ssh/keys
+ 1416  ssh-add ssh/keys
+ 1417  ssh-add keys
+ 1418  cat keys.pub
+ 1419  LS
+ 1420  gir 
+ 1421  ls
+ 1422  git --version 
+ 1423  git staus
+ 1424  git status
+ 1425  ls
+ 1426  cd git/
+ 1427  ks
+ 1428  ls
+ 1429  git init
+ 1430  git add -A
+ 1431  git status 
+ 1432  git commit -m "tiktaktoe is updated"
+ 1433  git config
+ 1434  git config --global user.email "gunag77730@gmail.com"
+ 1435  git config --global user.name "gunaNeelamegam"
+ 1436  git commit -m "tiktaktoe is updated"
+ 1437  git status 
+ 1438  git history
+ 1439  git --help 
+ 1440  git remote add origin https://github.com/gunaNeelamegam/Demo.git
+ 1441  git push -u orgin master
+ 1442  git push -u orgit push -u origin main master
+ 1443  git push -u origin main
+ 1444  git -v 
+ 1445  git remote -v
+ 1446  git push origin master
+ 1447  git push -u origin main   https://github.com/gunaNeelamegam/Demo.git
+ 1448  git remote add origin https://github.com/gunaNeelamegam/Demo.git
+ 1449  git remote -v
+ 1450  git push -f -u  https://github.com/gunaNeelamegam/Demo.git
+ 1451  git push master -u -f https://github.com/gunaNeelamegam/Demo.git
+ 1452  git log
+ 1453  git status
+ 1454  git history
+ 1455  git remote set-url origin git@github.com:gunaNeelamegam /Demo.git
+ 1456  git remote -v
+ 1457  git push master -u -f https://github.com/gunaNeelamegam/Demo.git
+ 1458  git push -f -u  https://github.com/gunaNeelamegam/Demo.git
+ 1459  git config --global credential.helper cache
+ 1460  git user.name
+ 1461  git user.email
+ 1462  clear
+ 1463  git user
+ 1464  git --user.name
+ 1465  git push master -u -f https://github.com/gunaNeelamegam/Demo.git
+ 1466  git remote add origin https://github.com/gunaNeelamegam/Demo.git
+ 1467  git push origin main origin https://github.com/gunaNeelamegam/Demo.git
+ 1468  git push  main origin https://github.com/gunaNeelamegam/Demo.git
+ 1469  git push origin master -u  origin https://github.com/gunaNeelamegam/Demo.git
+ 1470  git push  master -u  origin https://github.com/gunaNeelamegam/Demo.git
+ 1471  clear
+ 1472  git push -u origin main   https://github.com/gunaNeelamegam/Demo.git
+ 1473  git push -u origin main
+ 1474  git push -u origin master
+ 1475  git remote -v
+ 1476  git remote add https://github.com/gunaNeelamegam/Demo.git
+ 1477  git remote add origin https://github.com/gunaNeelamegam/Demo.git
+ 1478  git remote remove origin
+ 1479  git remote -v
+ 1480  cvlear
+ 1481  vlear
+ 1482  git remote add origin https://github.com/gunaNeelamegam/Demo.git
+ 1483  git remote -v
+ 1484  git push -u origin master
+ 1485  firefox 'https://github.com/gunaNeelamegam/Demo.git/'
+ 1486  ls
+ 1487  git --version 
+ 1488  git remote status
+ 1489  git remote -v
+ 1490  git remote remove
+ 1491  git remote remove 
+ 1492  git remove 
+ 1493  git remove  remote
+ 1494  git remove remote https://github.com/gunaNeelamegam/Demo.git 
+ 1495  git remove 
+ 1496  git remote rm
+ 1497  git remote rm https://github.com/gunaNeelamegam/Demo.git 
+ 1498  git remote rm  'https://github.com/gunaNeelamegam/Demo.git' 
+ 1499  ls
+ 1500  git remote remove orgin
+ 1501  git remote remove origin
+ 1502  ls
+ 1503  git remote -v
+ 1504  history 
+ 1505  git remote -v
+ 1506  git remote set-url origin https://github.com/gunaNeelamegam/Demo.git 
+ 1507  git remote set-url origin 'https://github.com/gunaNeelamegam/Demo.git' 
+ 1508  git add remote  -u https://github.com/gunaNeelamegam/Demo.git 
+ 1509  git add remote -u origin https://github.com/gunaNeelamegam/Demo.git 
+ 1510  git add remote -u origin 'https://github.com/gunaNeelamegam/Demo.git' 
+ 1511  git remote -v
+ 1512  git remote set-url origin git://'https://github.com/gunaNeelamegam/Demo.git'
+ 1513  git remote add origin 'https://github.com/gunaNeelamegam/Demo.git'
+ 1514  git remote -v
+ 1515  git remote remove origin 
+ 1516  ls
+ 1517  git remote add origin 'https://github.com/gunaNeelamegam/Demo.git'
+ 1518  ls
+ 1519  git remote -v
+ 1520  ls
+ 1521  cd ..
+ 1522  ls
+ 1523  cat key.pub 
+ 1524  git user.name
+ 1525  git man 
+ 1526  git --man 
+ 1527  git --help 
+ 1528  ls
+ 1529  cd git/
+ 1530  ls
+ 1531  cd repository
+ 1532  ls
+ 1533  cd tiktaktoe.git/
+ 1534  ls
+ 1535  cd Tiktactoe/
+ 1536  LS
+ 1537  ls
+ 1538  cd Logs/
+ 1539  ls
+ 1540  cdd ..
+ 1541  cd ..
+ 1542  ls
+ 1543  cd ..
+ 1544  ls
+ 1545  git clone tiktaktoe.git/
+ 1546  ls
+ 1547  rm -rf tiktaktoe
+ 1548  ls
+ 1549  git  remote -v
+ 1550  ls
+ 1551  git mv tiktaktoe.git/ ../repository1
+ 1552  ls
+ 1553  cd ..
+ 1554  ls 
+ 1555  cd repository1
+ 1556  ;s
+ 1557  ls
+ 1558  cd ..
+ 1559  ls
+ 1560  cd repository
+ 1561  ls
+ 1562  cd ..
+ 1563  ls
+ 1564  cd repository2
+ 1565  ls
+ 1566  cd ..
+ 1567  ls
+ 1568  rm repository
+ 1569  rm   -rf repository
+ 1570  ls
+ 1571  git log 
+ 1572  git show
+ 1573  git commit -m "new updated version for  tiktaktoe"
+ 1574  ls
+ 1575  git show
+ 1576  git commit -m "audio file is included by guna"'
+ 1577  git commit -m "audio file is included by guna"
+ 1578  cd repository
+ 1579  cd repository1
+ 1580  git commit -m "audio file is included by guna"
+ 1581  ls
+ 1582  git sho
+ 1583  git show
+ 1584  ls
+ 1585  git show
+ 1586  git shell
+ 1587  git log
+ 1588  git commit -m "created by guna"
+ 1589  git log
+ 1590  git  add commit -m "created by guna"
+ 1591  git aA  commit -m "created by guna"
+ 1592  git -A  commit -m "created by guna"
+ 1593  git add -A
+ 1594  ls
+ 1595  git fetch 
+ 1596  git fetch tiktaktoe
+ 1597  git push origin 'https://github.com/gunaNeelamegam/Demo.git'
+ 1598  git push  remote origin 'https://github.com/gunaNeelamegam/Demo.git'
+ 1599  git push  -u  'https://github.com/gunaNeelamegam/Demo.git' master
+ 1600  git pull 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
+ 1601  git config --global  user.name "guna"
+ 1602  git config --global user.email "gunag77730@gmail.com"
+ 1603  git config -l
+ 1604  git push -u  origin master
+ 1605  git clone https://github.com/gunaNeelamegam/guna.git
+ 1606  git config --global --unset credential.helper
+ 1607  git pull -v
+ 1608  ls
+ 1609  cd guna/
+ 1610  ls
+ 1611  history 
+ 1612  ls
+ 1613  cd ..
+ 1614  l
+ 1615  ls
+ 1616  git remove guna/
+ 1617  rm guna/
+ 1618  rm -rf  guna/
+ 1619  ls
+ 1620  git pull -v
+ 1621  ls
+ 1622  git push  origin -u https://github.com/gunaNeelamegam/guna.git
+ 1623  git pull https://github.com/gunaNeelamegam/guna.git
+ 1624  ls
+ 1625  cd ..
+ 1626  ls
+ 1627  cd repository2
+ 1628  ls
+ 1629  cd ..
+ 1630  ls
+ 1631  cd repository
+ 1632  cd repository1
+ 1633  ld
+ 1634  ls
+ 1635  cd Tiktactoe/
+ 1636  ls
+ 1637  cd ..
+ 1638  ls
+ 1639  cd ..
+ 1640  ls
+ 1641  cd 
+ 1642  ls
+ 1643  cd git/
+ 1644  ls
+ 1645  cd repository1
+ 1646  ls
+ 1647  cd ..
+ 1648  ls 
+ 1649  cd repository1
+ 1650  ls
+ 1651  git commit -m "guna is updated finally this project"
+ 1652  ls
+ 1653  git show .
+ 1654  git show *.*
+ 1655  git log
+ 1656  git push -u origin https://github.com/gunaNeelamegam/guna.git
+ 1657  git push -u origin 'https://github.com/gunaNeelamegam/guna.git'
+ 1658  git remote -v
+ 1659  git status
+ 1660  git clean
+ 1661  ls
+ 1662  git  push https://github.com/gunaNeelamegam/guna.git
+ 1663  emacs git token key
+ 1664  mv git token key  PATkey
+ 1665  mv git token key  . PATkey
+ 1666  mv git token key  ./PATkey
+ 1667  mv git token key  .PATkey
+ 1668  ls
+ 1669  cat key 
+ 1670  mv key //lib/git-core/
+ 1671  ls
+ 1672  cd ..
+ 1673  ls 
+ 1674  cd repository2
+ 1675  ls
+ 1676  git clean
+ 1677  git  -f clean
+ 1678  git  -f clean .
+ 1679  git  -n  clean .
+ 1680  git  -n  clean 
+ 1681  ls
+ 1682  git add remote origin https://github.com/gunaNeelamegam/Demo.git
+ 1683  git add remote origin 'https://github.com/gunaNeelamegam/Demo.git'
+ 1684  git remote add  origin 'https://github.com/gunaNeelamegam/Demo.git'
+ 1685  ls
+ 1686  git remote status
+ 1687  git remote show
+ 1688  git remote  set-branches --add https://github.com/gunaNeelamegam/Demo.git html
+ 1689  git remote -v
+ 1690  git log 
+ 1691  git  show
+ 1692  git config -l
+ 1693  git commit -m "updating the html web page"
+ 1694  ls
+ 1695  git history
+ 1696  git  branch -M  Html
+ 1697  cd .git/
+ 1698  ls
+ 1699  cd branches/
+ 1700  ls
+ 1701  cd ..
+ 1702  ls
+ 1703  cd Html/
+ 1704  ;s
+ 1705  ls
+ 1706  cd ..
+ 1707  ls
+ 1708  git  branch -M html
+ 1709  git remote add -u html https://github.com/gunaNeelamegam/Demo.git
+ 1710  git remote add -u  -f html https://github.com/gunaNeelamegam/Demo.git
+ 1711  git remote add -u  https://github.com/gunaNeelamegam/Demo.git
+ 1712  git remote add -u  main  https://github.com/gunaNeelamegam/Demo.git
+ 1713  git remote add html  https://github.com/gunaNeelamegam/Demo.git
+ 1714  git push -u html 
+ 1715  emacs key.txt
+ 1716  cat key.txt 
+ 1717  emacs home.html
+ 1718  git add -A
+ 1719  git commit -m "update for home page"
+ 1720  git remote -v
+ 1721  git push -u html
+ 1722  git remove key.txt
+ 1723  git --help 
+ 1724  git rm key.txt 
+ 1725  ls
+ 1726  git commit  -m "key.txt is deleted by guna for privacy issue"
+ 1727  git pull 
+ 1728  git  push -u html 
+ 1729  git push -u -f html
+ 1730  gedit login.html
+ 1731  git clean 
+ 1732  git clean -i
+ 1733  ls
+ 1734  git clone
+ 1735  git clone https://github.com/gunaNeelamegam/Demo.git
+ 1736  ls
+ 1737  cd Demo/
+ 1738  ls
+ 1739  cd ...
+ 1740  cd ..
+ 1741  git rm Demo/
+ 1742  ls
+ 1743  git Demo/
+ 1744  git clean 
+ 1745  git clean  -f
+ 1746  ls
+ 1747  cd ..
+ 1748  ls
+ 1749  cd git
+ 1750  cd repository1
+ 1751  ls
+ 1752  git am
+ 1753  git am --continue 
+ 1754  git am --resolved 
+ 1755  ls
+ 1756  cd Tiktactoe/
+ 1757  ls
+ 1758  cd ..
+ 1759  ls
+ 1760  emacs login.html
+ 1761  git add Tiktactoe/
+ 1762  ls
+ 1763  cd Tiktactoe/
+ 1764  ls
+ 1765  cd ..
+ 1766  git add -A
+ 1767  ls
+ 1768  git commit  -m "adding the new login.html page"
+ 1769  git remote -v
+ 1770  git push -u origin 
+ 1771  git pull
+ 1772  ls
+ 1773  cat login.html 
+ 1774  git rm login.html 
+ 1775  ls
+ 1776  git update
+ 1777  ls
+ 1778  git updtae-ref
+ 1779  git --help 
+ 1780  git fetch 
+ 1781  git log 
+ 1782  git checkout 
+ 1783  cat D
+ 1784  ls -l
+ 1785  git checkout 
+ 1786  git check-mailmap
+ 1787  git   check-mailmap
+ 1788  git config -l
+ 1789  cd ..
+ 1790  ls
+ 1791  cd repository2
+ 1792  git config -l
+ 1793  git config --global user.name "gunaNeelamegam"
+ 1794  git config -l
+ 1795  npm --version
+ 1796  sudo apt-get install npm
+ 1797  sudo apt update 
+ 1798  start.sh
+ 1799  gedit start.sh
+ 1800  ./start.sh
+ 1801  gedit start.sh
+ 1802  chmod 777 start.sh 
+ 1803  ./start.sh 
+ 1804  emacs start.sh 
+ 1805  ./start.sh
+ 1806  emacs start.sh 
+ 1807  emacs j.java
+ 1808  cd git/
+ 1809  ls
+ 1810  cd repository1
+ 1811  ls
+ 1812  git rm login. html
+ 1813  git rm login.html
+ 1814  cd 
+ 1815  cd Templates/
+ 1816  ls
+ 1817  cd 
+ 1818  cd git/repository1/Tiktactoe/
+ 1819  ls
+ 1820  cd ..
+ 1821  ls
+ 1822  cd .git/
+ 1823  ls
+ 1824  cd branches/
+ 1825  ls
+ 1826  cd 
+ 1827  cd git/
+ 1828  cd repository1
+ 1829  ls
+ 1830  cd Tiktactoe/
+ 1831  ls
+ 1832  cd ..
+ 1833  ls
+ 1834  cd Tiktactoe/
+ 1835  KLS
+ 1836  ld
+ 1837  xls
+ 1838  ls
+ 1839  cd bin/application/
+ 1840  ls
+ 1841  cd ..
+ 1842  cd
+ 1843  cd git/
+ 1844  ls 
+ 1845  cd repository1
+ 1846  ls
+ 1847  java Tiktactoe
+ 1848  javac Tiktactoe/
+ 1849  sl
+ 1850  ls
+ 1851  git rm home.html
+ 1852  git push -u html
+ 1853  cd ..
+ 1854  ls
+ 1855  cd repository2
+ 1856  ls
+ 1857  rm -rf start.sh start.sh~ '#j.java#' 
+ 1858  ls
+ 1859  git rm home.html 
+ 1860  ls
+ 1861  git push -u html 
+ 1862  git push -u origin 
+ 1863  git push -u origin https://github.com/gunaNeelamegam/Demo.git
+ 1864  git push -u origin 
+ 1865  ls
+ 1866  cd Html/
+ 1867  ls
+ 1868  cd ..
+ 1869  ls
+ 1870  cd Demo/
+ 1871  ls
+ 1872  cd Html/
+ 1873  ls 
+ 1874  cd ..
+ 1875  ls 
+ 1876  cd ..
+ 1877  ls
+ 1878  git clone https://github.com/gunaNeelamegam/Demo.git
+ 1879  ls
+ 1880  rm Demo/
+ 1881  git rm Demo
+ 1882  git rm Demo/
+ 1883  git clean
+ 1884  git clean -n
+ 1885  ls
+ 1886  git clean  -f
+ 1887  ls
+ 1888  cd ..
+ 1889  ls 
+ 1890  cd .git/
+ 1891  ls
+ 1892  cd logs/
+ 1893  ls
+ 1894  cd refs/
+ 1895  ls 
+ 1896  cd heads/
+ 1897  ls 
+ 1898  cat master 
+ 1899  cd 
+ 1900  ls
+ 1901  cd git/
+ 1902  ls
+ 1903  cd repository2
+ 1904  ls 
+ 1905  cd ..
+ 1906  ls
+ 1907  cd repository1
+ 1908  lls
+ 1909  ls
+ 1910  cd Tiktactoe/
+ 1911  ls
+ 1912  cd ..
+ 1913  gedit shell.sh
+ 1914  gedit logging.properties
+ 1915  git add logging.properties 
+ 1916  git remote -v
+ 1917  git remote rm
+ 1918  git remote rm https://github.com/gunaNeelamegam/Demo.git
+ 1919  git remote remove  https://github.com/gunaNeelamegam/Demo.git
+ 1920  git remote rmhttps://github.com/gunaNeelamegam/Demo.git
+ 1921  git remote  remove https://github.com/gunaNeelamegam/Demo.git
+ 1922  git remote remove https://github.com/gunaNeelamegam/Demo.git'
+ 1923  git remote remove https://github.com/gunaNeelamegam/Demo.git
+ 1924  it remote remove 'https://github.com/gunaNeelamegam/Demo.git'
+ 1925  git remote remove 'https://github.com/gunaNeelamegam/Demo.git'
+ 1926  git remote remove https://github.com/gunaNeelamegam/Demo.git
+ 1927  git remote rm https://github.com/gunaNeelamegam/Demo.git'
+ 1928  git remote rm https://github.com/gunaNeelamegam/Demo.git
+ 1929  git remote remove origin 
+ 1930  ls
+ 1931  git remote add orgin https://github.com/gunaNeelamegam/Demo.git'
+ 1932  git remote add orgin https://github.com/gunaNeelamegam/Demo.git
+ 1933  ls
+ 1934  git remote -v
+ 1935  git commit -m "adding removing"
+ 1936  git add -A
+ 1937  ;s
+ 1938  ls
+ 1939  git push -u  orgin 
+ 1940  git push -u  orgin madter
+ 1941  git push -u  orgin master
+ 1942  git pull
+ 1943  ls
+ 1944  jar cvmf Tiktactoe.jar Tiktactoe/
+ 1945  ls
+ 1946  cd Tiktactoe/
+ 1947  ls
+ 1948  jar cvmf tiktaktoe.jar . *
+ 1949  jar cvmf tiktaktoe.jar .*
+ 1950  jar cvmf tik.jar bin/ build.fxbuild  Logs/ src/
+ 1951  ls
+ 1952  cd bin/
+ 1953  ls
+ 1954  cat module-info.class 
+ 1955  cd ..
+ 1956  ls
+ 1957  cd src/
+ 1958  ls
+ 1959  cat module-info.java 
+ 1960  cd application/
+ 1961  ls
+ 1962  cd ..
+ 1963  ls
+ 1964  cd 
+ 1965  ld 
+ 1966  ll
+ 1967  ls
+ 1968  unzip guna.zip 
+ 1969  ld
+ 1970  cld
+ 1971  javac j.java 
+ 1972  emacs j.java 
+ 1973  javac j.java 
+ 1974  cd //lib/git-core/
+ 1975  cat PAT.txt 
+ 1976  rm -rf PAT.txt 
+ 1977  sudo rm -rf PAT.txt 
+ 1978  gedit PAT.txt
+ 1979  locate PAT.txt
+ 1980  sudo PAT.txtx
+ 1981  sudo  gedit PAT.txt
+ 1982  cat PAT.txt 
+ 1983  ls
+ 1984  cd eclipse-workspace/
+ 1985  ls
+ 1986  cd
+ 1987  ls
+ 1988  cd CUSTOMJAR/
+ 1989  ls
+ 1990  cd ..
+ 1991  ls
+ 1992  cd Project/
+ 1993  ls
+ 1994  cd 
+ 1995  ls
+ 1996  cd JAVA/
+ 1997  ls
+ 1998  cd 
+ 1999  poweroff
+ 2000  sudo apt get update
+ 2001  sudo apt-get  update
+ 2002  sudo apt install asterisk -y
+ 2003  mkdir asteriskHistiory 
+ 2004  ls
+ 2005  cd asteriskHistiory/
+ 2006  ls
+ 2007  sudo asterisk -r
+ 2008  ls
+ 2009  git 
+ 2010  clear
+ 2011  ls
+ 2012  cd ..
+ 2013  cd //etc/asterisk/
+ 2014  ls
+ 2015  sudo cp sip.conf sip.config.backup
+ 2016  ls
+ 2017  gedit sip.conf
+ 2018  gedit sip.config.backup 
+ 2019  sudo gedit extensions.conf 
+ 2020  sudo cp extensions.conf extensions.conf.backup
+ 2021  ls
+ 2022  cat extensions.conf
+ 2023  sudo cat extensions.conf
+ 2024  ls
+ 2025  sudo gedit extensions.conf
+ 2026  sudo emacs extensions.conf
+ 2027  sudo emacs sip.conf
+ 2028  ls
+ 2029  sudo cp voicemail.conf voicemail.conf.backup
+ 2030  ls
+ 2031  emacs voicemail.conf
+ 2032  ls
+ 2033  sudo cat voicemail.conf
+ 2034  ls
+ 2035  sudo cat voicemail.conf
+ 2036  sudo emacs voicemail.conf
+ 2037  sudo cat voicemail.conf
+ 2038  sudo cat extensions.conf
+ 2039  sudo emacs extensions.conf
+ 2040  sudo cat extensions.conf
+ 2041  sudo cat sip.conf
+ 2042  history 
+ 2043  history >>~/asteriskHistiory/history.txt
