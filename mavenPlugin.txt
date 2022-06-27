@@ -1,0 +1,70 @@
+jar cvf pjsip.jar foldername
+mvn install::install-file -Dfile=pjsip.jar -DgroupId=pjsip -DartifactId=pjsip -Dversion=1.0 -Dpackaging=jar
+========
+
+user@Zilogic-KGX:~/Downloads/pjproject-2.12.1/pjsip-apps/src/swig/java/output$ mvn install::install-file -Dfile=pjsip.jar -DgroupId=pjsip -DartifactId=pjsip -Dversion=1.0 -Dpackaging=jar
+[INFO] Scanning for projects...
+[INFO] 
+[INFO] ------------------< org.apache.maven:standalone-pom >-------------------
+[INFO] Building Maven Stub Project (No POM) 1
+[INFO] --------------------------------[ pom ]---------------------------------
+[INFO] 
+[INFO] --- maven-install-plugin:2.4:install-file (default-cli) @ standalone-pom ---
+[INFO] Installing /home/user/Downloads/pjproject-2.12.1/pjsip-apps/src/swig/java/output/pjsip.jar to /home/user/.m2/repository/pjsip/pjsip/1.0/pjsip-1.0.jar
+[INFO] Installing /tmp/mvninstall5455453281084569966.pom to /home/user/.m2/repository/pjsip/pjsip/1.0/pjsip-1.0.pom
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  1.170 s
+[INFO] Finished at: 2022-06-27T12:00:38+05:30
+[INFO] ------------------------------------------------------------------------
+user@Zilogic-KGX:~/Downloads/pjproject-2.12.1/pjsip-apps/src/swig/java/output$ 
+
+
+
+
+=============
+
+after that make the build means you may have a additional jar file in targeted folder itself additional external jar in the folder with the use to adding the maven external pulgin to create the external jar 
+
+The External jar file named as Targeted file-with-version number-snapshot version number-with dependency.jar as present
+
+
+================================
+
+Additional pulgin to add create the external jar file :
+
+
+
+
+<plugin>
+                <artifactId>maven-assembly-plugin</artifactId>
+                <executions>
+                    <execution>
+                        <phase>package</phase>
+                        <goals>
+                            <goal>single</goal>
+                        </goals>
+                    </execution>
+                </executions>
+                <configuration>
+                    <archive>
+                        <manifest>
+                            <addClasspath>true</addClasspath>
+                            <mainClass>com.zilogic.asteriskconfiguration.App</mainClass>
+                        </manifest>
+                    </archive>  
+            
+            
+            
+                    <descriptorRefs>
+                        <descriptorRef>jar-with-dependencies</descriptorRef>
+                    </descriptorRefs>
+                </configuration>
+            </plugin>
+            
+            
+            
+            
+            =============================================================
+            
